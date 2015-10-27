@@ -5,3 +5,7 @@ Some simple python scripts to convert PerlRC data into useful data for plotting.
 # Dependencies
 
 The script makes use of the midas2eva package, specifically, the SDA class, which is a subclasses the MidasToEva conversion class to add some extra functionality for the conversion process.
+
+# webtest2.html
+
+The file webtest2.html should be copied to the "~/online/custom/" directory, so that an online view of the PerlRC scan can be seen.;
